@@ -1,4 +1,6 @@
 import React from 'react';
+import ChartJS from '../ChartJS/ChartJS';
+import D3JS from '../D3JS/D3JS';
 
 function HomePage() {
   return (
@@ -42,13 +44,12 @@ function HomePage() {
 
 
             <div className="pieChart">
-                <h2>Chart</h2>
-                <p>
-                    <canvas id="myChart" width="400" height="400"></canvas>
-                </p>
+                <h2 align="middle">Chart</h2>
+                    <ChartJS/>
             </div>
-            <div className="D3Chart" id="d3Chart">
-                <h2>D3 Pie Chart</h2>
+            <div>
+                <h2 align="middle">D3JS Chart</h2>
+                    <D3JS/>
             </div>
             
         </div>

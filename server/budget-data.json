@@ -1,0 +1,36 @@
+
+    { "myBudget": [
+        {
+            "title": "Eat out",
+            "budget": "25"
+        },
+        {
+            "title": "Rent",
+            "budget": "275"
+        },
+        {
+            "title": "Grocery",
+            "budget": "110"
+        },
+        {
+            "title": "Clothing",
+            "budget": "120"
+        },
+        {
+            "title": "Toiletries",
+            "budget": "45"
+        },
+        {
+            "title": "Entertainment",
+            "budget": "30"
+        },
+        {
+            "title": "Water Usage",
+            "budget": "50"
+        },
+        {
+            "title": "WiFi",
+            "budget": "10"
+        }
+
+    ] }
